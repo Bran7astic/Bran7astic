@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p>
+  Hello! My name is Brandon Budhan, an undergraduate computer science student at Hofstra University. I am fascinated by the intersection of technology and interpersonal connections, particularly in the realm of Software Engineering and Machine Learning. I aspire to leverage my skills and knowledge to contribute to creating innovative solutions.
+</p>
 
 <div align="center">
   <picture>
